@@ -1,3 +1,5 @@
 # clr-cera
-### Currently building
+### Currently developing
 - Graphical Interface Customization
+### Currently learning
+- Foundations of AI
