@@ -1,5 +1,5 @@
 ### Welcome!
-Call me Clr! 👋
+Call me clr! 👋
 
 I am a CS student at USP
 
