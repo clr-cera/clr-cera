@@ -7,4 +7,6 @@ I dont know what to put in here but take a look at what I am most active current
 - [`chameleon`](https://github.com/clr-cera/chameleon) ( WIP Config Files distributor and switcher)
 - [`clrpkgs`](https://github.com/clr-cera/clrpkgs) (Nix stuff)
 
+> 🍱 My [bento](https://bento.me/clr-cera)!
+> 
 > 💬 Contact clrcera05@gmail.com
