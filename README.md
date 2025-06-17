@@ -5,7 +5,7 @@ I am a CS undergraduate student at USP
 
 Currently developing a Scientific Initiation in CSAI detection
 
-Feel free to check out my repos or my [website](clr.dev.br), there may be some fun stuff out there!
+Feel free to check out my repos or my [website](https://clr.dev.br/), there may be some fun stuff out there!
 
 ---
 
