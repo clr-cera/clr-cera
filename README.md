@@ -1,7 +1,5 @@
 ### Welcome!
-My name is Clara but you can call me clr! 👋
-
-I am a CS undergraduate student at USP
+My I'm Clara! 👋
 
 Currently developing a Scientific Initiation in CSAI detection
 
